@@ -1,4 +1,4 @@
-![Repository banner](./public/template-cover-gh-repo.jpg)
+![Repository banner](./public/template-cover-gh-repo.png)
 
 # React + TypeScript + Vite
 
