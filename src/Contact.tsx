@@ -3,5 +3,5 @@ export default function Contact() {
     <div>
       <h2>Contact Me.</h2>
     </div>
-  );
+  )
 }
